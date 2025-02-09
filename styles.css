@@ -107,7 +107,7 @@
 .Opng{
     object-fit: contain;
     mix-blend-mode: color-burn;
-    transform: translateY(-60%) scale(1.5) translateX(30%);
+    transform: translateY(-150%) scale(1.5) translateX(30%);
     opacity: 70%;
     z-index: 1;
 }
